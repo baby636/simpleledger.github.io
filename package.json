@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.1",
-    "vuepress": "^1.4.1",
+    "vuepress": "^1.8.2",
     "vuepress-plugin-canonical": "^1.0.0",
     "vuepress-plugin-check-md": "0.0.2",
     "vuepress-plugin-clean-urls": "^1.1.1",
